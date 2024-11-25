@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Selin
 
-<!--
-**selinlul/selinlul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Mapping cleantech venture capital networks at TUM. Researching how co-investment patterns drive sustainable innovation.
 
-Here are some ideas to get you started:
+## 🔭 Current Work
+- Analyzing cleantech VC networks and co-investment patterns for my master's thesis
+-  Building data visualization tools to map investment ecosystems
+- Supporting MACH architecture implementation across Region Europe at BSH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 I'm Currently Learning
+- Network analysis with Python (NetworkX)
+- Investment pattern visualization
+- Data-driven product development
+
+## 💡 Projects
+- Led development of data-driven parking solution at Digital Product School
+- Building interactive dashboards for consumer experience journey optimization
+- Mapping cleantech investment networks using i3 platform data
+
+## 🤝 Looking to Collaborate On
+- Cleantech investment analysis
+- Sustainable technology projects
+- Data visualization tools
+
+## 📫 How to Reach Me
+- LinkedIn: [https://www.linkedin.com/in/selinzmliy/]
+
